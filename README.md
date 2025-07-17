@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bart6114-my-bear-mcp-server-badge.png)](https://mseep.ai/app/bart6114-my-bear-mcp-server)
+
 # Bear MCP Server
 
 A Model Context Protocol (MCP) server that allows AI assistants like Claude to read notes from the [Bear](https://bear.app/) note-taking app. This implementation connects directly to the Bear SQLite database in a read-only mode, ensuring your notes remain safe and unmodified.
